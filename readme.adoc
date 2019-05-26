@@ -1,0 +1,3 @@
+= Diet Points Model
+
+- Demo of a scoring algorithm for the dietary value of food sold by a grocery store
